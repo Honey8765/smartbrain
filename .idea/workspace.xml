@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b09c366-9af3-4cc5-beb0-b94b82c76497" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/smartbrain/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/smartbrain/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smartbrain/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/smartbrain/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smartbrain/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/smartbrain/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smartbrain/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/smartbrain/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smartbrain/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/smartbrain/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smartbrain/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/smartbrain/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smartbrain/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/smartbrain/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smartbrain/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/smartbrain/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/smartbrain/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/smartbrain" />
+  </component>
+  <component name="ProjectId" id="1wOKYajdZWgMh0fs2CRNeXPIMLw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b09c366-9af3-4cc5-beb0-b94b82c76497" name="Default Changelist" comment="" />
+      <created>1628324245613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628324245613</updated>
+    </task>
+    <servers />
+  </component>
+</project>
